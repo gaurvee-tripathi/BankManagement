@@ -1,0 +1,42 @@
+[
+    {
+        "name": "gaurvee",
+        "email": "vee@gmail.com",
+        "phoneNo.": 1232345678,
+        "pin": 2323,
+        "Accountno.": "",
+        "balance": 6000
+    },
+    {
+        "name": "mokshda",
+        "email": "moksh@gmail",
+        "phoneNo.": "5656789876",
+        "pin": 1234,
+        "Accountno.": "1ctLQ0i01",
+        "balance": 0
+    },
+    {
+        "name": "jh",
+        "email": "jhk",
+        "phoneNo.": "1234567890",
+        "pin": 2222,
+        "Accountno.": "G1Tn7R17f",
+        "balance": 0
+    },
+    {
+        "name": "shubhi",
+        "email": "shubhi@gmail",
+        "phone": "1234567567",
+        "pin": 1232,
+        "account_no": "3166QFUO65",
+        "balance": 0
+    },
+    {
+        "name": "Mokshda",
+        "email": "moksh@gmail.com",
+        "phoneNo.": "5656567856",
+        "pin": 1234,
+        "Accountno.": "SW1c49TO4",
+        "balance": 0
+    }
+]
